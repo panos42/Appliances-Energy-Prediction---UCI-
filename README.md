@@ -1,2 +1,2 @@
-# Appliances-Energy-Prediction---UCI-
+# Appliances-Energy-Prediction-UCI
 UCI
